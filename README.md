@@ -12,7 +12,7 @@
 
 ---
 
-This project is an embedded rhythm-training application developed for a Microcontrollers course using an STM32 (ARM Cortex-M) microcontroller and the STM32 HAL.
+This project is an embedded rhythm-training application developed for a Microcontrollers course using an STM32 (ARM Cortex-M) microcontroller and the STM32 HAL. Received grade 5 out of 5.
 
 The system focuses on **real-time signal processing**, **event-driven architecture**, and **tight integration between hardware abstraction and application logic**.
 
